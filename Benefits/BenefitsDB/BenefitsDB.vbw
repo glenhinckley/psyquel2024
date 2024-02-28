@@ -1,0 +1,11 @@
+modDB = 0, 0, 0, 0, C
+Module1 = 0, 0, 0, 0, C
+CBenefitsDB = 0, 0, 0, 0, C
+CCheckInDB = 0, 0, 0, 0, C
+CProviderPanelDB = 0, 0, 0, 0, C
+CProvFeeDB = 0, 0, 0, 0, C
+CPlanFeeAllowableDB = 0, 0, 0, 0, C
+CPatientBenefitDB = 0, 0, 0, 0, C
+CPatBEnVerDB = 0, 0, 0, 0, C
+CEligibilityDB = 0, 0, 0, 0, C
+CEligibilityTxDB = 0, 0, 0, 0, C
