@@ -1,0 +1,10 @@
+modDB = 0, 0, 0, 0, C
+Module2 = 0, 0, 0, 0, C
+Context = 0, 0, 0, 0, C
+modWin32API = 0, 0, 0, 0, C
+CPatientProviderBz = 0, 0, 0, 0, C
+CBenefactorClinicBz = 0, 0, 0, 0, C
+CEditPatientBz = 0, 0, 0, 0, C
+CBenefactorBz = 0, 0, 0, 0, C
+CPatRPPlanBz = 0, 0, 0, 0, C
+CPatRPPlanRuleBz = 0, 0, 0, 0, C

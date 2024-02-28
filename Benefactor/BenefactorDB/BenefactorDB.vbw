@@ -1,0 +1,9 @@
+CBenefactorClinicDB = 0, 0, 0, 0, C
+CBenefactorDB = 0, 0, 0, 0, C
+CEditPatientDB = 0, 0, 0, 0, C
+CPatRPPlanDB = 0, 0, 0, 0, C
+CPatRPPlanRuleDB = 0, 0, 0, 0, C
+CPatientProviderDB = 0, 0, 0, 0, C
+modDB = 0, 0, 0, 0, C
+Module2 = 0, 0, 0, 0, C
+modWin32API = 0, 0, 0, 0, C
